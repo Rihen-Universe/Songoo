@@ -16,8 +16,9 @@ Dernière version : **[Releases](https://github.com/Rihen-Universe/Songoo/releas
 | Linux x86_64 (Ubuntu 24.04+, Debian 13+, Fedora 39+) | `songoo-1.2.0-linux-amd64.tar.gz` |
 | Android 7+ | `Songoo-1.2.0-android.apk` |
 | Navigateur / Web browser | `Songoo-1.2.0-web.zip` |
+| HarmonyOS (non signé, pour développeurs / unsigned, for developers) | `Songoo-1.2.0-harmonyos-non-signe.hap` |
 
-macOS, iOS et HarmonyOS arrivent plus tard. *macOS, iOS and HarmonyOS will come later.*
+macOS et iOS arrivent plus tard. *macOS and iOS will come later.*
 
 ## Donner son avis / Feedback
 
